@@ -1,7 +1,7 @@
 from PIL import Image
 import os
 
-downloadsFolder= "/Users/Mike/Documents/Program/python/automation/"
+downloadsFolder= "/Your/Download/Folder"
 
 if __name__ == "__main__":
     for filename in os.listdir(downloadsFolder):
